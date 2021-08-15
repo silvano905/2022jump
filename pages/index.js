@@ -24,7 +24,7 @@ export default function Home() {
 
         <div className={articleStyles.grid}>
             <div className={articleStyles.card}>
-                <img src="compressed-car-towing-jump-chicago-small.webp" alt="jump"/>
+                <Image src="compressed-car-towing-jump-chicago-small.webp" alt="jump"/>
             </div>
             <div>
                 <h1 className={articleStyles.title}>Car jump service in Chicago, IL</h1>

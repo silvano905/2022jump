@@ -4,27 +4,19 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import articleStyles from "../styles/Article.module.css";
 
-const locations = [
-    'Chicago, IL 60606', 'Chicago, IL 60607', 'Chicago, IL 60608', 'Chicago, IL 60610', 'Chicago, IL 60611',
-    'Chicago, IL 60612', 'Chicago, IL 60613', 'Chicago, IL 60614', 'Chicago, IL 60616', 'Chicago, IL 60618',
-    'Chicago, IL 60622', 'Chicago, IL 60623', 'Chicago, IL 60624', 'Chicago, IL 60302', 'Chicago, IL 60402',
-    'Chicago, IL 60625', 'Chicago, IL 60630', 'Chicago, IL 60638', 'Chicago, IL 60639', 'Chicago, IL 60640',
-    'Chicago, IL 60641', 'Chicago, IL 60642', 'Chicago, IL 60644', 'Chicago, IL 60647', 'Chicago, IL 60651',
-    'Chicago, IL 60654', 'Chicago, IL 60657', 'Chicago, IL 60661', 'Chicago, IL 60304', 'Chicago, IL 60804'
-]
 
 export default function Home() {
     return (
         <div>
             <Head>
-                <title>Car Jump Start Service Chicago,IL $39 Batteryjumpchicago & Free Estimate-Towing service in Chicago, Illinois</title>
-                <meta name="description" content="Free ETA. Car Battery Jump Start Service Near Chicago,IL $39 Batteryjumpchicago. Car won't start? Need a jump start car service in Chicago, Illinois?" />
+                <title>Car Jump Start Service Berwyn,IL For $39. Fast Jump Start Car Service.</title>
+                <meta name="description" content="Free ETA. Car Battery Jump Start Service Near Berwyn,IL $39. Car won't start? Need a jump start car service in Berwyn, Illinois?" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
             <div className={articleStyles.grid}>
                 <div className={articleStyles.card}>
-                    <img src="compressed-car-towing-jump-chicago-small.webp" alt="jump"/>
+                    <Image src="compressed-car-towing-jump-chicago-small.webp" alt="jump"/>
                 </div>
                 <div>
                     <h1 className={articleStyles.title}>Car jump service in Berwyn, IL</h1>
