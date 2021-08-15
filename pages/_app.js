@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }) {
   return (
       <>
       <Script
-          strategy="lazyOnload"
+          async
           src={`https://www.googletagmanager.com/gtag/js?id=UA-163174935-1`}
       />
 

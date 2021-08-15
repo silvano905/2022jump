@@ -38,7 +38,7 @@ export default function JumpStartServiceBerwyn() {
                     <p>3. Complete payment</p>
 
                     <div>
-                        <a href="https://app.acuityscheduling.com/schedule.php?owner=18280216&calendarID=3244208">
+                        <a href="https://app.acuityscheduling.com/schedule.php?owner=18280216&calendarID=5108124">
                             Make Appointment
                         </a>
                     </div>

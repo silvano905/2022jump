@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.batteryjumpchicago.com/sitemap
+Sitemap: https://www.batteryjumpchicago.com/sitemap.xml
