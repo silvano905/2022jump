@@ -5,7 +5,7 @@ import styles from '../styles/Home.module.css'
 import articleStyles from "../styles/Article.module.css";
 
 
-export default function Home() {
+export default function JumpStartServiceRiverside() {
     return (
         <div>
             <Head>
