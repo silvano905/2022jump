@@ -16,7 +16,7 @@ export default function JumpStartServiceBerwyn() {
 
             <div className={articleStyles.grid}>
                 <div className={articleStyles.card}>
-                    <Image src="compressed-car-towing-jump-chicago-small.webp" alt="jump"/>
+                    <Image src="/compressed-car-towing-jump-chicago-small.webp" alt="jump"/>
                 </div>
                 <div>
                     <h1 className={articleStyles.title}>Car jump service in Berwyn, IL</h1>
