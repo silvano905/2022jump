@@ -8,7 +8,7 @@ const Nav = () => {
         <nav>
             <div className="logo">
                 <Link href='/'>
-                    Home
+                    Batteryjumpchicago
                 </Link>
             </div>
             <Link href="/jump-start-service-berwyn"><a>Berwyn</a></Link>

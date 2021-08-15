@@ -36,10 +36,7 @@
   font-size: 1.5rem;
 }
 .card div {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-top: 10px;
+  text-align: center;
 }
 
 .activeCard div {
@@ -69,5 +66,12 @@
   .grid {
     width: 100%;
     flex-direction: column;
+  }
+}
+
+@media (min-width: 600px) {
+  .title {
+    width: 600px;
+    text-align: center;
   }
 }

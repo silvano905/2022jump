@@ -24,7 +24,7 @@ export default function Home() {
 
         <div className={articleStyles.grid}>
             <div className={articleStyles.card}>
-                <Image src="/compressed-car-towing-jump-chicago-small.webp" alt="jump" width='400' height='300'/>
+                <Image src="/compressed-car-towing-jump-chicago-small.webp" alt="Battery jump start car service in Chicago, IL" width='400' height='300'/>
             </div>
             <div>
                 <h1 className={articleStyles.title}>Car jump service in Chicago, IL</h1>
@@ -80,6 +80,15 @@ export default function Home() {
             </div>
 
             <div className={articleStyles.card}>
+                <h3>How we perform a jump start service</h3>
+                <p>1. We locate the battery in your car</p>
+                <p>2. We connect our portable battery to your battery in your car</p>
+                <Image src="/jnc_comp.webp" alt="free jump start car service in Chicago, IL" width='300' height='300'/>
+                <p>3. Now you turn on your car</p>
+                <p>4. Done!</p>
+            </div>
+
+            <div className={articleStyles.card}>
                 <h3>Reviews</h3>
                 <ul>
                     <li>
@@ -122,14 +131,18 @@ export default function Home() {
                 <p>Batteryjumpchicago has been in business for over 3 years in the chicago area. We provide our customers with
                     the best car jump service in Chicago. Need a jump start? or your car won&apos;t start? we can help.
                 </p>
-                <h4>Batteryjumpchicago</h4>
-                <h5><strong>Jump start car service</strong></h5>
-                <h5><strong>No towing service</strong></h5>
-                <h4>Business Hours</h4>
-                <h5>Mon-Fri: 7AM - 10AM</h5>
-                <h5>Sat-Sun: 7AM - 10AM</h5>
-                <h5>Chicago,IL 60630</h5>
-                <h5>(708)-548-9664</h5>
+                <div>
+                    <h4>Batteryjumpchicago</h4>
+                    <h5><strong>Jump start car service</strong></h5>
+                    <h5><strong>No towing service</strong></h5>
+                    <h4>Business Hours</h4>
+                    <h5>Mon-Fri: 7AM - 10AM</h5>
+                    <h5>Sat-Sun: 7AM - 10AM</h5>
+                    <h5>Chicago,IL 60630</h5>
+                    <h5>(708)-548-9664</h5>
+
+                    <h6>Copyright© 2021, Batteryjumpchicago. All Rights Reserved</h6>
+                </div>
 
             </div>
 
