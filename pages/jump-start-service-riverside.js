@@ -49,9 +49,9 @@ export default function JumpStartServiceRiverside() {
                     <h3>Why your car might need a jump start</h3>
                     <ul>
                         <li>
-                            Car Won't Start
+                            Car Won&apos;t Start
                             <ul>
-                                <li>Car makes a clicking noise, but it doesn't start or no sound at all.</li>
+                                <li>Car makes a clicking noise, but it doesn&apos;t start or no sound at all.</li>
                             </ul>
                         </li>
 
@@ -63,7 +63,7 @@ export default function JumpStartServiceRiverside() {
                         </li>
 
                         <li>
-                            If You Haven't Driven Your Car in Days
+                            If You Haven&apos;t Driven Your Car in Days
                             <ul>
                                 <li>It has been 1 or more weeks since you last drove your car.</li>
                             </ul>
@@ -107,7 +107,7 @@ export default function JumpStartServiceRiverside() {
                 <div className={articleStyles.card}>
                     <h3>About us</h3>
                     <p>Batteryjumpchicago has been in business for over 3 years in the Riverside area. We provide our customers with
-                        the best car jump service in Riverside. Need a jump start? or your car won't start? we can help.
+                        the best car jump service in Riverside. Need a jump start? or your car won&apos;t start? we can help.
                     </p>
                     <h4>Batteryjumpchicago</h4>
                     <h5><strong>Jump start car service</strong></h5>

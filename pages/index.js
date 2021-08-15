@@ -57,21 +57,21 @@ export default function Home() {
                 <h3>Why your car might need a jump start</h3>
                 <ul>
                     <li>
-                        Car Won't Start
+                        Car Won&apos;t Start
                         <ul>
-                            <li>Car makes a clicking noise, but it doesn't start or no sound at all.</li>
+                            <li>Car makes a clicking noise, but it doesn&apos;t start or no sound at all.</li>
                         </ul>
                     </li>
 
                     <li>
                         Dead or Weak Battery
                         <ul>
-                            <li>Excessive heat or cold weather can weaken your battery or you left your lights on.</li>
+                            <li>Excessive heat or cold weather can weaken your battery or you left your car lights on.</li>
                         </ul>
                     </li>
 
                     <li>
-                        If You Haven't Driven Your Car in Days
+                        If You Haven&apos;t Driven Your Car in Days
                         <ul>
                             <li>It has been 1 or more weeks since you last drove your car.</li>
                         </ul>
@@ -111,7 +111,7 @@ export default function Home() {
 
                 <ul>
                     {locations.map((item) => (
-                        <li><strong>{item}</strong></li>
+                        <li key={item}><strong>{item}</strong></li>
                     ))}
                 </ul>
 
@@ -120,7 +120,7 @@ export default function Home() {
             <div className={articleStyles.card}>
                 <h3>About us</h3>
                 <p>Batteryjumpchicago has been in business for over 3 years in the chicago area. We provide our customers with
-                    the best car jump service in Chicago. Need a jump start? or your car won't start? we can help.
+                    the best car jump service in Chicago. Need a jump start? or your car won&apos;t start? we can help.
                 </p>
                 <h4>Batteryjumpchicago</h4>
                 <h5><strong>Jump start car service</strong></h5>
@@ -135,60 +135,6 @@ export default function Home() {
 
         </div>
 
-
-      {/*<main className={styles.main}>*/}
-      {/*  <h1 className={styles.title}>*/}
-      {/*    Welcome to <a href="https://nextjs.org">Next.js!</a>*/}
-      {/*  </h1>*/}
-
-      {/*  <p className={styles.description}>*/}
-      {/*    Get started by editing{' '}*/}
-      {/*    <code className={styles.code}>pages/index.js</code>*/}
-      {/*  </p>*/}
-
-      {/*  <div className={styles.grid}>*/}
-      {/*    <a href="https://nextjs.org/docs" className={styles.card}>*/}
-      {/*      <h2>Documentation &rarr;</h2>*/}
-      {/*      <p>Find in-depth information about Next.js features and API.</p>*/}
-      {/*    </a>*/}
-
-      {/*    <a href="https://nextjs.org/learn" className={styles.card}>*/}
-      {/*      <h2>Learn &rarr;</h2>*/}
-      {/*      <p>Learn about Next.js in an interactive course with quizzes!</p>*/}
-      {/*    </a>*/}
-
-      {/*    <a*/}
-      {/*      href="https://github.com/vercel/next.js/tree/master/examples"*/}
-      {/*      className={styles.card}*/}
-      {/*    >*/}
-      {/*      <h2>Examples &rarr;</h2>*/}
-      {/*      <p>Discover and deploy boilerplate example Next.js projects.</p>*/}
-      {/*    </a>*/}
-
-      {/*    <a*/}
-      {/*      href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"*/}
-      {/*      className={styles.card}*/}
-      {/*    >*/}
-      {/*      <h2>Deploy &rarr;</h2>*/}
-      {/*      <p>*/}
-      {/*        Instantly deploy your Next.js site to a public URL with Vercel.*/}
-      {/*      </p>*/}
-      {/*    </a>*/}
-      {/*  </div>*/}
-      {/*</main>*/}
-
-      {/*<footer className={styles.footer}>*/}
-      {/*  <a*/}
-      {/*    href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"*/}
-      {/*    target="_blank"*/}
-      {/*    rel="noopener noreferrer"*/}
-      {/*  >*/}
-      {/*    Powered by{' '}*/}
-      {/*    <span className={styles.logo}>*/}
-      {/*      <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />*/}
-      {/*    </span>*/}
-      {/*  </a>*/}
-      {/*</footer>*/}
     </div>
   )
 }
