@@ -14,3 +14,17 @@ a {
 * {
   box-sizing: border-box;
 }
+nav {
+  background: linear-gradient(45deg, #01497c 30%, #012a4a 90%);
+  color: #fff;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 12px;
+}
+nav a {
+  margin-left: 12px;
+}
+nav .logo {
+  margin-right: auto;
+}

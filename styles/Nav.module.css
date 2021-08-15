@@ -1,0 +1,52 @@
+.nav {
+    height: 50px;
+    padding: 10px;
+    background: linear-gradient(45deg, #01497c 30%, #012a4a 90%);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.nav ul li a {
+    margin: 5px 15px;
+}
+
+
+
+/*.header {*/
+/*    height: 70px;*/
+/*    width: 100%;*/
+/*    display: flex;*/
+/*    justify-content: space-between;*/
+/*    margin-bottom: 25px;*/
+/*}*/
+
+/*.logo-container {*/
+/*    height: 100%;*/
+/*    width: 70px;*/
+/*    padding: 25px;*/
+/*}*/
+
+/*.options {*/
+/*    width: 50%;*/
+/*    height: 100%;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: flex-end;*/
+/*}*/
+
+/*.option {*/
+/*    padding: 10px 15px;*/
+/*    cursor: pointer;*/
+/*    margin: 5px;*/
+/*}*/
+
+
