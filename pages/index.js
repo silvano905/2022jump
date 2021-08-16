@@ -17,8 +17,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Car Jump Start Service Chicago,IL $39 Batteryjumpchicago & Free Estimate-Towing service in Chicago, Illinois</title>
-        <meta name="description" content="Free ETA. Car Battery Jump Start Service Near Chicago,IL $39 Batteryjumpchicago. Car won't start? Need a jump start car service in Chicago, Illinois?" />
+        <title>Jump Start Car Service In Chicago, Illinois | Batteryjumpchicago is a local Chicago vehicle jumpstart company. No Towing Service.</title>
+        <meta name="description" content="We provide the best jump start car service in the Chicago area for only $39. Top roadside assistance. Free ETA. Need a battery jump-start near you?" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -94,7 +94,7 @@ export default function Home() {
                     <li>
                         <>
                             <h5>Location: Downtown Chicago, IL</h5>
-                            <p>“Had no idea what a car jump start service was. Literally the car started in seconds.„</p>
+                            <p>“Had no idea what a car jump start service was. Literally the vehicle started in seconds.„</p>
                         </>
                     </li>
 
@@ -108,7 +108,7 @@ export default function Home() {
                     <li>
                         <>
                             <h5>Location: Cook County, Illinois</h5>
-                            <p>“Best roadside assistance. Car had no power and these guys helped me. $39 for a jump start is excellent.„</p>
+                            <p>“Best roadside assistance. Auto had no power and these guys helped me. $39 for a jump start is excellent.„</p>
                         </>
                     </li>
 
@@ -129,11 +129,11 @@ export default function Home() {
             <div className={articleStyles.card}>
                 <h3>About us</h3>
                 <p>Batteryjumpchicago has been in business for over 3 years in the chicago area. We provide our customers with
-                    the best car jump service in Chicago. Need a jump start? or your car won&apos;t start? we can help.
+                    the best car jump service in Chicago. Need a jump start? or your car won&apos;t start? we can help. Top vehicle jump-start services in Downtown Chicago, IL.
                 </p>
                 <div>
                     <h4>Batteryjumpchicago</h4>
-                    <h5><strong>Jump start car service</strong></h5>
+                    <h5><strong>Jump start car service Chicago, IL</strong></h5>
                     <h5><strong>No towing service</strong></h5>
                     <h4>Business Hours</h4>
                     <h5>Mon-Fri: 7AM - 10AM</h5>
