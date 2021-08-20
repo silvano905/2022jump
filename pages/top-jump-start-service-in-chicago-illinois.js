@@ -115,11 +115,11 @@ export default function topJumpStartServiceInChicagoIllinois() {
                             Why Car Batteries Fail
                             <ul>
                                 <li>
-                                    Extreme heat or cold can increase your battery's rate of discharge, making winter a
-                                    triple-threat to your battery. All that exposure to summer's heat evaporates the water
+                                    Extreme heat or cold can increase your battery&apos;s rate of discharge, making winter a
+                                    triple-threat to your battery. All that exposure to summer&apos;s heat evaporates the water
                                     in the electrolyte, increasing sulfation. Then winter rolls around, and freezing
                                     temperatures slow the chemical reactions occurring inside a lead acid battery, further
-                                    reducing your battery's ability to perform. At the same time, a cold engine and sluggish
+                                    reducing your battery&apos;s ability to perform. At the same time, a cold engine and sluggish
                                     oil demand more power, while power-hungry features like heat and defrost place more
                                     demand on your battery. Although lead acid batteries last an average of four years,
                                     they can fail earlier under the right (or wrong) conditions.
@@ -132,7 +132,7 @@ export default function topJumpStartServiceInChicagoIllinois() {
                             <ul>
                                 <li>
                                     A car battery is the most crucial piece of equipment to starting and driving your vehicle.
-                                    It sends power from the starter motor to the sparks plugs, igniting your car’s fuel,
+                                    It sends power from the starter motor to the sparks plugs, igniting your car&apos;s fuel,
                                     while also giving other systems power. This includes lights, radio, air conditioning,
                                     and more. You may be able to tell when your car battery starts to die if you find it
                                     difficult to start, have flickering lights, or a weakening alarm system.
