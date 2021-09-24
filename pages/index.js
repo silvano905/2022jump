@@ -4,6 +4,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import articleStyles from "../styles/Article.module.css";
 
+
 const locations = [
     'Chicago, IL 60606', 'Chicago, IL 60607', 'Chicago, IL 60608', 'Chicago, IL 60610', 'Chicago, IL 60611',
     'Chicago, IL 60612', 'Chicago, IL 60613', 'Chicago, IL 60614', 'Chicago, IL 60616', 'Chicago, IL 60618',
@@ -17,9 +18,9 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Jump Start Car Service In Chicago, Illinois | Batteryjumpchicago is a local Chicago vehicle jumpstart company. No Towing Service.</title>
-        <meta name="description" content="We provide the best jump start car service in the Chicago area for only $39. Top roadside assistance. Free ETA. Need a battery jump-start near you?" />
-        <link rel="icon" href="/favicon.ico" />
+        <title>Jump Start Service In Chicago, Il</title>
+        <meta name="description" content="Car jump start service in Chicago, Il. $39 for a car jump-start" />
+        <link rel="shortcut icon" href="/favicon.ico" />
       </Head>
 
         <div className={articleStyles.grid}>

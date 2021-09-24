@@ -11,7 +11,7 @@ export default function JumpStartServiceCicero() {
             <Head>
                 <title>Car Jump Start Service Cicero,IL | Batteryjumpchicago is a local Chicago vehicle jumpstart company. No Towing Service.</title>
                 <meta name="description" content="Free ETA. Car Battery Jump Start Service Near Cicero,IL $39. Car won't start? Need a jump start car service in Cicero, Illinois?" />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="shortcut icon" href="/favicon.ico" />
             </Head>
 
             <div className={articleStyles.grid}>

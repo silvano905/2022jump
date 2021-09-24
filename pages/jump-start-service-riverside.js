@@ -11,7 +11,7 @@ export default function JumpStartServiceRiverside() {
             <Head>
                 <title>Car Jump Start Service Riverside,IL For $39. Fast Jump Start Car Service.</title>
                 <meta name="description" content="Free ETA. Car Battery Jump Start Service Near Riverside,IL $39. Car won't start? Need a jump start car service in Riverside, Illinois?" />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="shortcut icon" href="/favicon.ico" />
             </Head>
 
             <div className={articleStyles.grid}>

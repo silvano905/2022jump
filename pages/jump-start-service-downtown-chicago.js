@@ -11,7 +11,7 @@ export default function JumpStartServiceDowntownChicago() {
             <Head>
                 <title>Car Jump Start Service Downtown Chicago,IL | Batteryjumpchicago is a local Chicago vehicle jumpstart company. No Towing Service.</title>
                 <meta name="description" content="Free ETA. Car Battery Jump Start Service Near Downtown Chicago,IL $39. Car won't start? Need a jump start car service in Downtown Chicago, Illinois?" />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="shortcut icon" href="/favicon.ico" />
             </Head>
 
             <div className={articleStyles.grid}>

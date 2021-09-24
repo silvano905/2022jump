@@ -19,7 +19,7 @@ export default function topJumpStartServiceInChicagoIllinois() {
             <Head>
                 <title>Top Jump Start Car Service In Chicago, Illinois | How To Jump Start Your Car. No Towing Service Required. Best Roadside Assistance Near You.</title>
                 <meta name="description" content="Top jump start car service in Chicago, Il. Top roadside assistance. Free ETA. Need a battery jump-start near you? How to jump start your car?" />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="shortcut icon" href="/favicon.ico" />
             </Head>
 
             <div className={articleStyles.grid}>
