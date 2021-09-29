@@ -5,35 +5,34 @@ import styles from '../styles/Home.module.css'
 import articleStyles from "../styles/Article.module.css";
 
 const locations = [
-    'Chicago, IL 60606', 'Chicago, IL 60607', 'Chicago, IL 60608', 'Chicago, IL 60610', 'Chicago, IL 60611',
-    'Chicago, IL 60612', 'Chicago, IL 60613', 'Chicago, IL 60614', 'Chicago, IL 60616', 'Chicago, IL 60618',
-    'Chicago, IL 60622', 'Chicago, IL 60623', 'Chicago, IL 60624', 'Chicago, IL 60302', 'Chicago, IL 60402',
-    'Chicago, IL 60625', 'Chicago, IL 60630', 'Chicago, IL 60638', 'Chicago, IL 60639', 'Chicago, IL 60640',
-    'Chicago, IL 60641', 'Chicago, IL 60642', 'Chicago, IL 60644', 'Chicago, IL 60647', 'Chicago, IL 60651',
-    'Chicago, IL 60654', 'Chicago, IL 60657', 'Chicago, IL 60661', 'Chicago, IL 60304', 'Chicago, IL 60804'
+    '60606, Chicago, IL', '60607, Chicago, IL', '60608, Chicago, IL', '60610, Chicago, IL', '60611, Chicago, IL',
+    '60612, Chicago, IL', '60613, Chicago, IL', '60614, Chicago, IL', '60616, Chicago, IL', '60618, Chicago, IL',
+    '60622, Chicago, IL', '60623, Chicago, IL', '60624, Chicago, IL', '60302, Chicago, IL', '60402, Chicago, IL',
+    '60625, Chicago, IL', '60630, Chicago, IL', '60638, Chicago, IL', '60639, Chicago, IL', '60640, Chicago, IL',
+    '60641, Chicago, IL', '60642, Chicago, IL', '60644, Chicago, IL', '60647, Chicago, IL', '60651, Chicago, IL',
+    '60654, Chicago, IL', '60657, Chicago, IL', '60661, Chicago, IL', '60304, Chicago, IL', '60804, Chicago, IL'
 ]
 
-export default function topJumpStartServiceInChicagoIllinois() {
+export default function jumpStartServiceInChicagoIllinois() {
     return (
         <div>
             <Head>
-                <title>Top Jump Start Car Service In Chicago, Illinois | How To Jump Start Your Car. No Towing Service Required. Best Roadside Assistance Near You.</title>
-                <meta name="description" content="Top jump start car service in Chicago, Il. Top roadside assistance. Free ETA. Need a battery jump-start near you? How to jump start your car?" />
+                <title>Jump Start Car Service in Chicago, Illinois. Need A Battery Jump-start?</title>
+                <meta name="description" content="Car jump start service in Chicago, Il for $39. Credit card accepted or Venmo." />
                 <link rel="shortcut icon" href="/favicon.ico" />
             </Head>
 
             <div className={articleStyles.grid}>
                 <div className={articleStyles.card}>
-                    <Image src="/compressed-car-towing-jump-chicago-small.webp" alt="Battery jump start car service in Chicago, IL" width='400' height='300'/>
+                    <Image src="/compressed-car-towing-jump-chicago-small.webp" alt="jump start car service in Chicago, IL" width='400' height='300'/>
                 </div>
                 <div>
                     <h1 className={articleStyles.title}>Jump start service in Chicago, IL</h1>
-                    <h2 className={articleStyles.title}>How to jump start your car</h2>
 
                 </div>
                 <div className={articleStyles.card}>
                     <h3>Price for a car jump start service</h3>
-                    <p>$49.00</p>
+                    <p>$39.00</p>
                     <p>Final price, we only charge you if the jump start was successful.</p>
 
                 </div>
@@ -195,6 +194,10 @@ export default function topJumpStartServiceInChicagoIllinois() {
                         <h5>Sat-Sun: 7AM - 10AM</h5>
                         <h5>Chicago,IL 60630</h5>
                         <h5>(708)-548-9664</h5>
+
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d47530.11611240292!2d-87.65641644328424!3d41.87925788741003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2caf74846717%3A0xbc3dc7eb0e09bbfd!2sDowntown%20Chicago%2C%20IL!5e0!3m2!1sen!2sus!4v1632933648835!5m2!1sen!2sus"
+                            width="400" height="300" allowFullScreen="" loading="lazy"/>
 
                         <h6>Copyright© 2021, Batteryjumpchicago. All Rights Reserved</h6>
                     </div>

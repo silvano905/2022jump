@@ -18,8 +18,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Jump Start Service In Chicago, Il</title>
-        <meta name="description" content="Car jump start service in Chicago, Il. $39 for a car jump-start" />
+        <title>Jump Start Car Service For $39</title>
+        <meta name="description" content="Car jump start service. $39 for a car jump-start." />
         <link rel="shortcut icon" href="/favicon.ico" />
       </Head>
 
@@ -28,11 +28,11 @@ export default function Home() {
                 <Image src="/compressed-car-towing-jump-chicago-small.webp" alt="Battery jump start car service in Chicago, IL" width='400' height='300'/>
             </div>
             <div>
-                <h1 className={articleStyles.title}>Car jump service in Chicago, IL</h1>
+                <h1 className={articleStyles.title}>Car jump start service</h1>
             </div>
             <div className={articleStyles.card}>
                 <h3>Price for a car jump start service</h3>
-                <p>$49.00</p>
+                <p>$39.00</p>
                 <p>Final price, we only charge you if the jump start was successful.</p>
 
             </div>
@@ -94,14 +94,14 @@ export default function Home() {
                 <ul>
                     <li>
                         <>
-                            <h5>Location: Downtown Chicago, IL</h5>
+                            <h5>Location: Downtown, IL</h5>
                             <p>“Had no idea what a car jump start service was. Literally the vehicle started in seconds.„</p>
                         </>
                     </li>
 
                     <li>
                         <>
-                            <h5>Location: Lake View Chicago, IL</h5>
+                            <h5>Location: Lake View, IL</h5>
                             <p>“Had a dead car battery because of the cold weather and these guys had the cheapest jump start service.„</p>
                         </>
                     </li>
@@ -134,13 +134,14 @@ export default function Home() {
                 </p>
                 <div>
                     <h4>Batteryjumpchicago</h4>
-                    <h5><strong>Jump start car service Chicago, IL</strong></h5>
+                    <h5><strong>Jump start car service</strong></h5>
                     <h5><strong>No towing service</strong></h5>
                     <h4>Business Hours</h4>
                     <h5>Mon-Fri: 7AM - 10AM</h5>
                     <h5>Sat-Sun: 7AM - 10AM</h5>
                     <h5>Chicago,IL 60630</h5>
                     <h5>(708)-548-9664</h5>
+
 
                     <h6>Copyright© 2021, Batteryjumpchicago. All Rights Reserved</h6>
                 </div>

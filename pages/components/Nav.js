@@ -7,7 +7,7 @@ const Nav = () => {
 
         <nav>
             <div className="logo">
-                <Link href='/'>
+                <Link href='/jump-start-service-in-chicago-illinois'>
                     Batteryjumpchicago
                 </Link>
             </div>

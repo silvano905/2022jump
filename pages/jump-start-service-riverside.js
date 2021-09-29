@@ -23,7 +23,7 @@ export default function JumpStartServiceRiverside() {
                 </div>
                 <div className={articleStyles.card}>
                     <h3>Price for a car jump start service</h3>
-                    <p>$49.00</p>
+                    <p>$39.00</p>
                     <p>Final price, we only charge you if the jump start was successful.</p>
 
                 </div>
