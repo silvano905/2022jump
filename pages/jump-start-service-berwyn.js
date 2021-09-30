@@ -128,6 +128,10 @@ export default function JumpStartServiceBerwyn() {
                         <h5>Berwyn,IL 60402</h5>
                         <h5>(708)-548-9664</h5>
 
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d47556.846515205616!2d-87.82597704362261!3d41.84330657408527!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e346c086e4c3b%3A0x70ab594b1370370!2sBerwyn%2C%20IL%2060402!5e0!3m2!1sen!2sus!4v1633043312440!5m2!1sen!2sus"
+                            width="320" height="300" allowFullScreen="" loading="lazy"/>
+
                         <h6>Copyright© 2021, Batteryjumpchicago. All Rights Reserved</h6>
 
                     </div>
