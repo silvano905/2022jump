@@ -25,7 +25,7 @@ export default function Home() {
 
         <div className={articleStyles.grid}>
             <div className={articleStyles.card}>
-                <Image src="/compressed-car-towing-jump-chicago-small.webp" alt="Battery jump start car service in Chicago, IL" width='400' height='300'/>
+                <Image src="/compressed-car-towing-jump-chicago-small.webp" alt="Battery jump start car service" width='400' height='300'/>
             </div>
             <div>
                 <h1 className={articleStyles.title}>Car jump start service</h1>
@@ -84,7 +84,7 @@ export default function Home() {
                 <h3>How we perform a jump start service</h3>
                 <p>1. We locate the battery in your car</p>
                 <p>2. We connect our portable battery to your battery in your car</p>
-                <Image src="/jnc_comp.webp" alt="free jump start car service in Chicago, IL" width='300' height='300'/>
+                <Image src="/jnc_comp.webp" alt="free jump start car service" width='300' height='300'/>
                 <p>3. Now you turn on your car</p>
                 <p>4. Done!</p>
             </div>
@@ -129,8 +129,8 @@ export default function Home() {
 
             <div className={articleStyles.card}>
                 <h3>About us</h3>
-                <p>Batteryjumpchicago has been in business for over 3 years in the chicago area. We provide our customers with
-                    the best car jump service in Chicago. Need a jump start? or your car won&apos;t start? we can help. Top vehicle jump-start services in Downtown Chicago, IL.
+                <p>Batteryjumpchicago has been in business for over 3 years in illinois. We provide our customers with
+                    the best car jump service in Illinois. Need a jump start? or your car won&apos;t start? we can help. Top vehicle jump-start services in Downtown, IL.
                 </p>
                 <div>
                     <h4>Batteryjumpchicago</h4>
