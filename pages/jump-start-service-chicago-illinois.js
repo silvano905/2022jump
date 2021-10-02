@@ -13,7 +13,7 @@ const locations = [
     '60654, Chicago, IL', '60657, Chicago, IL', '60661, Chicago, IL', '60304, Chicago, IL', '60804, Chicago, IL'
 ]
 
-export default function jumpStartServiceInChicagoIllinois() {
+export default function jumpStartServiceChicagoIllinois() {
     return (
         <div>
             <Head>

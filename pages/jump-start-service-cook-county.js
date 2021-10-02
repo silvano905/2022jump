@@ -9,7 +9,7 @@ export default function JumpStartServiceCookCounty() {
     return (
         <div>
             <Head>
-                <title>Car Jump Start Service Cook County,IL | Batteryjumpchicago is a local Chicago vehicle jumpstart company. No Towing Service.</title>
+                <title>Car Jump Start Service Cook County,IL | price $39 for jump-start</title>
                 <meta name="description" content="Free ETA. Car Battery Jump Start Service Near Cook County,IL $39. Car won't start? Need a jump start car service in Cook County, Illinois?" />
                 <link rel="shortcut icon" href="/favicon.ico" />
             </Head>
